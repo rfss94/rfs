@@ -10,6 +10,6 @@ These docs are written with those assumptions in mind!
 
 If you don't know something, thankfully you live in an extraordinary era where any information is at your fingertips! Google is your friend!
 
-#Getting started
+#Getting Started
 - [Installation](https://github.com/byt3bl33d3r/MITMf/wiki/Installation)
 - [Bug Reporting](https://github.com/byt3bl33d3r/MITMf/wiki/Reporting-a-bug)
