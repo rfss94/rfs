@@ -1,3 +1,3 @@
-Welcome to the MITMf wiki!
+Ready to get in the middle? You better be!
 
-Over time (hopefully) this will provide documentation for the usage of each plugin!
+Here you will find all the resources necessary to install, configure and use MITMf!
