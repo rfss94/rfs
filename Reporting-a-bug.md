@@ -16,6 +16,7 @@ After that, open an issue ticket and please describe the bug in **detail!** MITM
 
 Include in the report:
 - The full command string you used
+- The full output of: ```pip freeze```
 - The full output of MITMf in debug mode (append ```--log debug``` to the command you used)
 - The OS you're using (distribution and architecture)
 - The full error traceback (If any)
