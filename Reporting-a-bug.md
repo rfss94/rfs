@@ -21,3 +21,25 @@ Include in the report:
 - The OS you're using (distribution and architecture)
 - The full error traceback (If any)
 - If the bug resides in the way MITMf sends/receives packets, include a link to a pcap containing a full packet capture
+
+#**Some good & bad examples**
+
+- How to write a bug report
+
+https://github.com/byt3bl33d3r/MITMf/issues/71
+
+https://github.com/byt3bl33d3r/MITMf/issues/70
+
+https://github.com/byt3bl33d3r/MITMf/issues/64
+
+- How not to write a bug report
+
+https://github.com/byt3bl33d3r/MITMf/issues/35 <-- My personal favorite
+
+https://github.com/byt3bl33d3r/MITMf/issues/139
+
+https://github.com/byt3bl33d3r/MITMf/issues/138
+
+https://github.com/byt3bl33d3r/MITMf/issues/128
+
+https://github.com/byt3bl33d3r/MITMf/issues/52
