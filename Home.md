@@ -2,7 +2,7 @@ Ready to be in the middle? You better be!
 
 Here you will find all the resources necessary to install, configure and use MITMf!
 
-#**My assumptions**
+#**My Assumptions**
 
 I assume that whoever uses MITMf, has **at least** basic knowledge of the Linux OS, the command line, networking, and how to use/manage Python's [virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/) and dependencies!
 
