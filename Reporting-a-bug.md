@@ -5,6 +5,7 @@ Bug reporting is an essential part of any project since it let's people know wha
 Before reading on, here's a list of cases where you **shouldn't** be reporting the bug:
 - If you haven't installed MITMf using method described in the [installation](https://github.com/byt3bl33d3r/MITMf/wiki/Installation) intructions. (your fault!)
 - If you're using and old version of the framework (and by old I mean anything else that **isn't** the current version on Github)
+- If you found a bug in a packaged version of MITMf (e.g. Kali Repos), please file a bug report with the distros maintaner
 
 Lately, there has been a sharp **increase** in the volume of bug reports so in order for me to make any sense out of them and to quickly identify, reproduce and push a fix I do pretend a minimal amount of cooperation from the reporter!
 
