@@ -9,7 +9,7 @@ Before starting the installation process:
 pacman -S python2-setuptools libnetfilter_queue libpcap libjpeg-turbo
 ```
 
-- On Debian derivatives (e.g Ubuntu, Kali Linux etc...)
+- On Debian and derivatives (e.g Ubuntu, Kali Linux etc...)
 
 ```
 apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev libjpeg-dev
