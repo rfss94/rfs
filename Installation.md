@@ -1,6 +1,15 @@
 #**Installation**
-MITMf relies on a LOT of external libraries therefore it is highly recommended you use [virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/) to install them in, this avoids permission issues and conflicts with your system site packages (especially on Kali Linux).
+MITMf relies on a LOT of external libraries therefore it is highly recommended you use [virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/) to install the framework, this avoids permission issues and conflicts with your system site packages (especially on Kali Linux).
 
+Before starting the installation process:
+
+- On Debian derivatives (e.g Ubuntu, Kali Linux etc...)
+
+```
+apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev
+``` 
+
+#**Installing MITMF**
 - Install virtualenvwrapper: 
 
 ```
