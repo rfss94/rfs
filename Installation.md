@@ -3,6 +3,12 @@ MITMf relies on a LOT of external libraries therefore it is highly recommended y
 
 Before starting the installation process:
 
+- On Arch Linux:
+
+```
+pacman -S python2-setuptools libnetfilter_queue libpcap libjpeg-turbo
+```
+
 - On Debian derivatives (e.g Ubuntu, Kali Linux etc...)
 
 ```
@@ -12,6 +18,7 @@ apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-d
 #**Installing MITMf**
 - Install virtualenvwrapper: 
 
+**Note: if you're rocking Arch Linux: you're awesome! Just remember to use pip2 instead of pip outside of the virtualenv**
 ```
 pip install virtualenvwrapper
 ```
