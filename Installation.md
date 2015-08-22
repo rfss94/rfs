@@ -6,7 +6,7 @@ Before starting the installation process:
 - On Debian derivatives (e.g Ubuntu, Kali Linux etc...)
 
 ```
-apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev
+apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev
 ``` 
 
 #**Installing MITMf**
