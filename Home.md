@@ -13,3 +13,6 @@ If you don't know something, thankfully you live in an extraordinary era where i
 #Getting Started
 - [Installation](https://github.com/byt3bl33d3r/MITMf/wiki/Installation)
 - [Bug Reporting](https://github.com/byt3bl33d3r/MITMf/wiki/Reporting-a-bug)
+
+#The Basics
+- [The config file](https://github.com/byt3bl33d3r/MITMf/wiki/The-configuration-file)
