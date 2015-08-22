@@ -9,7 +9,7 @@ Before starting the installation process:
 apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev
 ``` 
 
-#**Installing MITMF**
+#**Installing MITMf**
 - Install virtualenvwrapper: 
 
 ```
