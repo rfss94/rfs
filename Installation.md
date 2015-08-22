@@ -18,6 +18,7 @@ pip install virtualenvwrapper
 
 - Edit your ```.bashrc``` or ```.zshrc``` file to source the virtualenvwrapper.sh script:
 
+**Note: the location of this script may vary depending on your Linux distro**
 ```
 source /usr/bin/virtualenvwrapper.sh
 ```
