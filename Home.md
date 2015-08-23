@@ -17,3 +17,4 @@ If you don't know something, thankfully you live in an extraordinary era where i
 
 #The Basics
 - [The config file](https://github.com/byt3bl33d3r/MITMf/wiki/The-configuration-file)
+- [First start](https://github.com/byt3bl33d3r/MITMf/wiki/Starting-MITMf)
