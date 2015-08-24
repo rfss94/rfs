@@ -57,7 +57,7 @@ cd MITMf && git submodule init && git submodule update --recursive
 -  Install the dependencies: 
 
 ```
-pip install install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 - You're ready to rock! 
