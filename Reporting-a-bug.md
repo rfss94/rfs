@@ -6,6 +6,7 @@ Before reading on, here's a list of cases where you **shouldn't** be reporting t
 - If you haven't installed MITMf using the method described in the [installation intructions](https://github.com/byt3bl33d3r/MITMf/wiki/Installation). (your fault!)
 - If you're using an old version of the framework (by old I mean anything else that **isn't** the current version on Github)
 - If you found a bug in a packaged version of MITMf (e.g. Kali Repos), please file a bug report with the distros maintainer
+- If you're issue isn't a bug but a general question about the framework, please only open a ticket for bugs **not** questions. If you have any questions please email me at byt3bl33d3r@gmail.com
 
 Lately, there has been a sharp increase in the volume of bug reports, so in order for me to make any sense out of them and to quickly identify, reproduce and push a fix I do pretend a minimal amount of cooperation from the reporter!
 
