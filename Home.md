@@ -8,7 +8,7 @@ I assume that whoever uses MITMf, has **at least** basic knowledge of the Linux 
 
 These docs are written with those assumptions in mind! 
 
-If you don't know something, thankfully you live in an extraordinary era where information is at your fingertips! Google is your friend!
+If you don't know something, thankfully you live in an extraordinary era where information is at your fingertips! ~~Google~~ DuckDuckGo is your friend!
 
 #Getting Started
 - [FAQ](https://github.com/byt3bl33d3r/MITMf/wiki/FAQ)
