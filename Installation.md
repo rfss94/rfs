@@ -6,7 +6,7 @@ Before starting the installation process:
 - On Arch Linux:
 
 ```
-pacman -S python2-setuptools libnetfilter_queue libpcap libjpeg-turbo
+pacman -S python2-setuptools libnetfilter_queue libpcap libjpeg-turbo capstone
 ```
 
 - On Debian and derivatives (e.g Ubuntu, Kali Linux etc...)
