@@ -35,4 +35,4 @@ https://github.com/byt3bl33d3r/MITMf/issues/64
 
 #Punishment for writing a bad bug report, not making any sense or asking stupid questions
 
-I will probably link you to a random youtube video that I think is hilarious in the context of the issue title or text and add the dafuq?, srsly? tags
+I will probably link you to a random youtube video that I think is hilarious in the context of the issue title or text and add the dafuq?, srsly? tags (also will probably close the issue). FEAR ME!
