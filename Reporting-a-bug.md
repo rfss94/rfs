@@ -27,22 +27,12 @@ Every report should include:
 
 #**Some good & bad examples**
 
-- How to write a bug report
-
 https://github.com/byt3bl33d3r/MITMf/issues/71
 
 https://github.com/byt3bl33d3r/MITMf/issues/70
 
 https://github.com/byt3bl33d3r/MITMf/issues/64
 
-- How not to write a bug report
+#Punishment for writing a bad bug report, not making any sense or asking stupid questions
 
-https://github.com/byt3bl33d3r/MITMf/issues/35 <-- My personal favorite
-
-https://github.com/byt3bl33d3r/MITMf/issues/139
-
-https://github.com/byt3bl33d3r/MITMf/issues/138
-
-https://github.com/byt3bl33d3r/MITMf/issues/128
-
-https://github.com/byt3bl33d3r/MITMf/issues/52
+I will probably link you to a random youtube video that I think is hilarious in the context of the issue title or text and add the dafuq?, srsly? tags
