@@ -25,14 +25,8 @@ Every report should include:
 
 **If a report doesn't contain all of the above, it will probably be ignored!**
 
-#**Some good & bad examples**
-
-https://github.com/byt3bl33d3r/MITMf/issues/71
-
-https://github.com/byt3bl33d3r/MITMf/issues/70
-
-https://github.com/byt3bl33d3r/MITMf/issues/64
-
 #Punishment for writing a bad bug report, not making any sense or asking stupid questions
 
-I will probably link you to a random youtube video that I think is hilarious in the context of the issue title or text and add the dafuq?, srsly? tags (also will probably close the issue). FEAR ME!
+I will probably link you to a random youtube video that I think is hilarious in the context of the issue title or text and add the dafuq?, srsly? tags (also will probably close the issue). 
+
+**FEAR ME!**
